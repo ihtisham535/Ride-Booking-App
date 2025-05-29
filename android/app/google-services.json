@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112210040014",
+    "project_id": "ridebookingapp-5355a",
+    "storage_bucket": "ridebookingapp-5355a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112210040014:android:45d61741e98c41b575ac9f",
+        "android_client_info": {
+          "package_name": "com.example.ridebooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArScWDM_p-IsPEWapGsLuhExRBXQD3ZNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112210040014:android:247d321edd9e444a75ac9f",
+        "android_client_info": {
+          "package_name": "com.example.ridebookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArScWDM_p-IsPEWapGsLuhExRBXQD3ZNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

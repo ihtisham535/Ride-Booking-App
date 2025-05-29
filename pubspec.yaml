@@ -1,0 +1,39 @@
+name: ridebooking
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.3
+  cloud_firestore: ^5.0.1
+  cupertino_icons: ^1.0.8
+  permission_handler: ^11.0.0
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  http: ^1.2.0
+  geolocator: ^10.1.0
+  cloudinary_public: ^0.21.0
+  image_picker: ^1.0.4
+  carousel_slider: ^5.0.0
+  flutter_spinkit: ^5.1.0
+  animate_do: ^3.3.4
+  google_fonts: ^4.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/splash1.jpg
+    - assets/images/splash2.jpeg
+    - assets/images/logo.png
